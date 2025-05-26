@@ -1,6 +1,5 @@
 # Sentiment Analysis of Women's Clothing E-Commerce Reviews
 
-<img src="ML1_T2220_Codes/logo-MMU.png" alt="MMU Logo" width="400" height="140" align="center">
 
 ## 📋 Project Overview
 
